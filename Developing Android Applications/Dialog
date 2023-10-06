@@ -1,0 +1,5 @@
+Dialogs prompt the user for decisions or additional
+information required by the app to continue a task.
+• Different dialogs
+  ▪ DatePickerDialog
+  ▪ TimePickerDialog
