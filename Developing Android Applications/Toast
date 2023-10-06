@@ -1,0 +1,3 @@
+Simple feedback about an operation in a small popup
+• They automatically disappear after a timeout
+• You can position the toast differently or even use your own layout instead of a simple text message.
